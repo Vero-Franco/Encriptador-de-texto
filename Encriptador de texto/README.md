@@ -1,6 +1,6 @@
 # Encriptador y Desencriptador de Texto
 
-Este proyecto es una aplicación web interactiva que permite a los usuarios encriptar y desencriptar texto utilizando un algoritmo de sustitución personalizado. Diseñada con una interfaz intuitiva, la aplicación ofrece funcionalidades adicionales como copiar resultados, limpiar entradas y mantener un historial de operaciones recientes.
+Este proyecto es una aplicación web interactiva que permite a los usuarios encriptar y desencriptar texto utilizando un algoritmo de sustitución personalizado. Diseñada con una interfaz intuitiva, la aplicación ofrece funcionalidades adicionales como copiar resultados, limpiar entradas y mantener un historial de operaciones recientes. Fue desarrollado en el marco del Curso One 7 de Alura Latan.
 
 ## Características
 
